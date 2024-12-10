@@ -7,7 +7,7 @@
         private int y;
         private bool direction;
 
-        public Ship(int length, int x, int y, bool direct)
+        public Ship(int length, int y, int x, bool direct)
         {
             this.length = length;
             this.x = x;
